@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/Bloody_Nocturne/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Bloody_Nocturne/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Bloody_Nocturne/Content/Crouch/Crouch.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Bloody_Nocturne/Content/Crouch/CrouchWalk.uasset"
+			]
+		}
+	]
+}
